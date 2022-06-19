@@ -1,0 +1,34 @@
+body {
+  background-color: #FBF8F1;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #D8D2CB;
+  border-width: 5px;
+  width: 10%;
+}
+h1{
+  font-family: Sans-serif;
+  color: #694E4E;
+}
+h3{
+  font-family: Sans-serif;
+  color: #694E4E;
+}
+h4{
+  font-family: Sans-serif;
+  color: #694E4E;
+}
+p{
+  font-family: Sans-serif;
+  text-align: justify;
+  color: #5F7161;
+}
+td{
+  font-family: Sans-serif;
+  color: #5F7161;
+}
+li{
+  font-family: Sans-serif;
+  color: #5F7161;
+}
